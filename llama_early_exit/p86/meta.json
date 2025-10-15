@@ -1,0 +1,16 @@
+{
+  "variant": "llama_early_exit",
+  "prompt_index": 86,
+  "prompt_text": "A crystal shaped like a heart",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/llama_early_exit/p86/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/llama_early_exit/p86/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/llama_early_exit/p86/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/llama_early_exit/p86/heatmap_strip.png"
+  }
+}

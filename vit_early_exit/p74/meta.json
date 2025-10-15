@@ -1,0 +1,16 @@
+{
+  "variant": "vit_early_exit",
+  "prompt_index": 74,
+  "prompt_text": "A dog with human ears",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p74/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p74/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p74/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p74/heatmap_strip.png"
+  }
+}

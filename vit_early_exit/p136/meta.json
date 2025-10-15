@@ -1,0 +1,16 @@
+{
+  "variant": "vit_early_exit",
+  "prompt_index": 136,
+  "prompt_text": "Two golden turtles",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p136/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p136/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p136/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/vit_early_exit/p136/heatmap_strip.png"
+  }
+}

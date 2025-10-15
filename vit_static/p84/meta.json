@@ -1,0 +1,16 @@
+{
+  "variant": "vit_static",
+  "prompt_index": 84,
+  "prompt_text": "A dragon breathing water",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/vit_static/p84/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/vit_static/p84/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/vit_static/p84/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/vit_static/p84/heatmap_strip.png"
+  }
+}
