@@ -1,0 +1,16 @@
+{
+  "variant": "baseline",
+  "prompt_index": 105,
+  "prompt_text": "A black rainbow",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/baseline/p105/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/baseline/p105/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/baseline/p105/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/baseline/p105/heatmap_strip.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variant": "llama_static",
+  "prompt_index": 14,
+  "prompt_text": "A snail with a transparent shell",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/llama_static/p14/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/llama_static/p14/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/llama_static/p14/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/llama_static/p14/heatmap_strip.png"
+  }
+}

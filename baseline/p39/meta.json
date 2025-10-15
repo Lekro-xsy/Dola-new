@@ -1,0 +1,16 @@
+{
+  "variant": "baseline",
+  "prompt_index": 39,
+  "prompt_text": "A cat with butterfly antennae",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/baseline/p39/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/baseline/p39/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/baseline/p39/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/baseline/p39/heatmap_strip.png"
+  }
+}

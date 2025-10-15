@@ -1,0 +1,16 @@
+{
+  "variant": "baseline",
+  "prompt_index": 113,
+  "prompt_text": "Two clocks on one tower",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/baseline/p113/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/baseline/p113/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/baseline/p113/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/baseline/p113/heatmap_strip.png"
+  }
+}

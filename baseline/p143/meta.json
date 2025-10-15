@@ -1,0 +1,16 @@
+{
+  "variant": "baseline",
+  "prompt_index": 143,
+  "prompt_text": "Three hands on one arm",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/baseline/p143/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/baseline/p143/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/baseline/p143/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/baseline/p143/heatmap_strip.png"
+  }
+}

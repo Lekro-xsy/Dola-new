@@ -1,0 +1,16 @@
+{
+  "variant": "combined_early_exit",
+  "prompt_index": 8,
+  "prompt_text": "A clock with melting numbers",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/combined_early_exit/p8/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/combined_early_exit/p8/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/combined_early_exit/p8/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/combined_early_exit/p8/heatmap_strip.png"
+  }
+}

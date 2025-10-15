@@ -1,0 +1,16 @@
+{
+  "variant": "baseline",
+  "prompt_index": 25,
+  "prompt_text": "A moon shaped like a cube",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/baseline/p25/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/baseline/p25/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/baseline/p25/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/baseline/p25/heatmap_strip.png"
+  }
+}

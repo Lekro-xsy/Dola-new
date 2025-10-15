@@ -1,0 +1,16 @@
+{
+  "variant": "combined_static",
+  "prompt_index": 4,
+  "prompt_text": "Eyes stacked vertically on a face",
+  "seed": 42,
+  "img_size": 384,
+  "patch_size": 16,
+  "stride": 24,
+  "T": 576,
+  "paths": {
+    "grid": "/z_data/syxin/Dola_Janus/storyboards/combined_static/p4/storyboard_grid.png",
+    "baseline": "/z_data/syxin/Dola_Janus/storyboards/combined_static/p4/baseline_strip.png",
+    "variant": "/z_data/syxin/Dola_Janus/storyboards/combined_static/p4/variant_strip.png",
+    "heatmap": "/z_data/syxin/Dola_Janus/storyboards/combined_static/p4/heatmap_strip.png"
+  }
+}
